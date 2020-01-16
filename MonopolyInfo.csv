@@ -1,0 +1,42 @@
+﻿minNum,2,maxNum,12,,
+SpaceName,startX,endX,startY,endY,cost
+Mediterranean Avenue,630,695,690,800,60
+Community Chest,565,630,690,800,
+Baltic Avenue,500,565,690,800,60
+Income Tax,435,500,690,800,
+Reading Railroad,370,435,690,800,200
+Oriental Avenue,305,370,690,800,100
+Chance,240,305,690,800,
+Vermont Avenue,175,240,690,800,100
+Connecticut Avenue,110,175,690,800,120
+Jail,0,110,690,800,
+St. Charles Avenue,0,110,625,690,140
+Electric Company,0,110,560,625,150
+States Avenue,0,110,495,560,140
+Virginia Avenue,0,110,430,495,160
+Pennsylvania Railroad,0,110,365,430,200
+St. James Ave,0,110,300,365,180
+Community Chest,0,110,235,300,
+Tennessee Avenue,0,110,170,235,180
+New York Avenue,0,110,105,170,200
+Free Parking,0,110,0,105,
+Kentucky Avenue,110,175,0,105,220
+Chance,175,240,0,105,
+Indiana Avenue,240,305,0,105,220
+Illinois Avenue,305,370,0,105,240
+B & O Railroad,370,435,0,105,200
+Atlantic Avenue,435,500,0,105,260
+Ventnor Avenue,500,565,0,105,260
+Water Works,565,630,0,105,150
+Marvin Gardens,630,690,0,105,280
+Go to Jail,690,800,0,105,
+Pacific Avenue,690,800,105,170,300
+North Carolina Avenue,690,800,170,235,300
+Community Chest,690,800,235,300,
+Pennsylvania Avenue,690,800,300,365,320
+Short Line,690,800,365,430,200
+Chance,690,800,430,495,
+Park Place,690,800,495,560,350
+Luxury Tax,690,800,560,625,
+Boardwalk,690,800,625,690,400
+GO  ,690,800,690,800,
